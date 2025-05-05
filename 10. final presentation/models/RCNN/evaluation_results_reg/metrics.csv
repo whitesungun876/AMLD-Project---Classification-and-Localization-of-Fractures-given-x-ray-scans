@@ -1,0 +1,10 @@
+Metric,Value
+mAP50,0.3991596644574945
+mAP50-95,0.14434763206677004
+precision,0.60674155
+recall,0.41538462
+f1_score,0.49315068
+true_positives,57
+false_positives,54
+total_gt_positives,130
+total_detections,111

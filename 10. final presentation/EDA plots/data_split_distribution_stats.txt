@@ -1,0 +1,13 @@
+Data Split Statistics:
+
+Train Set: 2776 samples
+  - Non-fractured: 2289 (82.5%)
+  - Fractured: 487 (17.5%)
+
+Validation Set: 694 samples
+  - Non-fractured: 572 (82.4%)
+  - Fractured: 122 (17.6%)
+
+Test Set: 613 samples
+  - Non-fractured: 505 (82.4%)
+  - Fractured: 108 (17.6%)

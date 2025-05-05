@@ -1,0 +1,16 @@
+Idéer til Faster-RCNN
+
+
+- Gøre vægtning af classification vs. box-loss til en parameter der kan tunes
+- Overveje at tilføje Focal loss (Det modvirker class imbalances)
+ - Den vægter nemme eksempler ned og fokusere på de svære cases, jo større lambda jo mere vægt på svære cases
+
+Distance focal loss er også en mulighed
+ 
+
+
+Feature | Focal Loss | Distance Focal Loss
+Used for | Classification (object vs bg) | Bounding box regression (discretized)
+Core idea | Focus on hard-to-classify samples | Learn discrete regression via soft dist.
+Applies to | RPN / ROI classification | Bounding box head
+Benefit | Handles class imbalance | Models localization uncertainty

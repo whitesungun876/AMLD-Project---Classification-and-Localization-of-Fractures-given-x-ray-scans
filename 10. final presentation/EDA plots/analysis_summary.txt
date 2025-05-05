@@ -1,0 +1,37 @@
+# Exploratory Data Analysis Summary
+
+## Dataset Overview
+Total images: 4083
+Fractured images: 717
+Non-fractured images: 3366
+
+## Body Parts Distribution
+Dominant body parts in fractured images:
+- Hand: 438 (61.1%)
+- Leg: 259 (36.1%)
+- Hip: 10 (1.4%)
+- Shoulder: 10 (1.4%)
+
+Dominant body parts in non-fractured images:
+- Leg: 2006 (59.6%)
+
+- Hand: 1100 (32.7%)
+
+- Hip: 169 (5.0%)
+
+- Shoulder: 91 (2.7%)
+
+## Bounding Box Analysis
+Number of images with bounding box annotations: 4084
+
+## Image Dimensions
+See fractured_dimensions.txt and non_fractured_dimensions.txt for details.
+
+## Pixel Intensity Analysis
+See pixel_intensity_distribution.png and pixel_intensity_distribution_stats.txt for details.
+
+## Embedding Visualizations
+t-SNE and PCA visualizations created to explore feature space.
+See tsne_visualization.png and pca_visualization.png.
+
+## Outlier Analysis

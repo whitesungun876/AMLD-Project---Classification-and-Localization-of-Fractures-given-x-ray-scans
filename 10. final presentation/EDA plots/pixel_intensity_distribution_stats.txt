@@ -1,0 +1,2 @@
+Mean pixel intensity (Fractured):     61.93
+Mean pixel intensity (Not Fractured): 51.26

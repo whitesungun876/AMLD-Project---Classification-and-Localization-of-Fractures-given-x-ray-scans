@@ -1,0 +1,6850 @@
+{
+  "IMG0000015.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000021.jpg": {
+    "boxes": [
+      [
+        130.2988739013672,
+        235.27796936035156,
+        158.3869171142578,
+        270.2997741699219
+      ]
+    ],
+    "scores": [
+      0.44524282217025757
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000027.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000038.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000045.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000057.jpg": {
+    "boxes": [
+      [
+        204.0176544189453,
+        156.0973663330078,
+        224.9607696533203,
+        174.88853454589844
+      ]
+    ],
+    "scores": [
+      0.46896496415138245
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        204.13119506835938,
+        161.6367950439453,
+        229.4239959716797,
+        176.07200622558594
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0000069.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000076.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000083.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000093.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000100.jpg": {
+    "boxes": [
+      [
+        117.83320617675781,
+        146.19671630859375,
+        190.47117614746094,
+        187.65042114257812
+      ],
+      [
+        121.2667007446289,
+        151.67221069335938,
+        165.633544921875,
+        177.67755126953125
+      ]
+    ],
+    "scores": [
+      0.5142979621887207,
+      0.47276586294174194
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        123.40640258789062,
+        150.07200622558594,
+        150.7375946044922,
+        170.2480010986328
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0000104.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000108.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000113.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000117.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000120.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000137.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000143.jpg": {
+    "boxes": [
+      [
+        296.9072570800781,
+        224.8489532470703,
+        326.6878967285156,
+        250.0422821044922
+      ],
+      [
+        273.36993408203125,
+        97.6241226196289,
+        296.78375244140625,
+        110.78423309326172
+      ]
+    ],
+    "scores": [
+      0.6743124723434448,
+      0.4142066538333893
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        293.79998779296875,
+        109.49120330810547,
+        322.96160888671875,
+        134.53439331054688
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0000157.jpg": {
+    "boxes": [
+      [
+        211.2275848388672,
+        148.61993408203125,
+        253.9869842529297,
+        181.72207641601562
+      ]
+    ],
+    "scores": [
+      0.847235381603241
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000158.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000159.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000164.jpg": {
+    "boxes": [
+      [
+        176.48399353027344,
+        72.0146255493164,
+        195.08583068847656,
+        103.68128204345703
+      ]
+    ],
+    "scores": [
+      0.7142298221588135
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000166.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000167.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000169.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000200.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000207.jpg": {
+    "boxes": [
+      [
+        134.42405700683594,
+        138.2502899169922,
+        164.7736053466797,
+        164.00071716308594
+      ]
+    ],
+    "scores": [
+      0.5653815269470215
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        135.51199340820312,
+        141.0655975341797,
+        183.9759979248047,
+        173.67999267578125
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0000232.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000241.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000244.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000251.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000254.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000264.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000270.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000273.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000274.jpg": {
+    "boxes": [
+      [
+        68.19235229492188,
+        147.6163787841797,
+        121.72831726074219,
+        180.16078186035156
+      ]
+    ],
+    "scores": [
+      0.4285396337509155
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000288.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000291.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000294.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000313.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000336.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000337.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000340.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000342.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000344.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000349.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000354.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000360.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000364.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000370.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000383.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000384.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000389.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000400.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000403.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000406.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000418.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000432.jpg": {
+    "boxes": [
+      [
+        188.16171264648438,
+        187.73439025878906,
+        224.07650756835938,
+        209.13905334472656
+      ]
+    ],
+    "scores": [
+      0.4956026077270508
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000437.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000440.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000447.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000456.jpg": {
+    "boxes": [
+      [
+        156.36280822753906,
+        161.10653686523438,
+        209.4329071044922,
+        258.7961730957031
+      ]
+    ],
+    "scores": [
+      0.9847761392593384
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        166.39999389648438,
+        196.55999755859375,
+        205.9199981689453,
+        293.9872131347656
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0000457.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000465.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000467.jpg": {
+    "boxes": [
+      [
+        240.30250549316406,
+        100.5886459350586,
+        279.78558349609375,
+        133.67799377441406
+      ]
+    ],
+    "scores": [
+      0.4359838664531708
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        242.11199951171875,
+        98.7791976928711,
+        267.90399169921875,
+        138.4239959716797
+      ],
+      [
+        274.55999755859375,
+        88.54560089111328,
+        293.2799987792969,
+        121.70079803466797
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0000495.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000496.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000507.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000511.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000515.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000521.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000535.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000543.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000551.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000552.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000561.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000565.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000568.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000570.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000578.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000585.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000588.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000591.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000611.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000613.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000614.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000615.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000640.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000650.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000655.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000658.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000666.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000670.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000674.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000676.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000683.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000687.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000699.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000704.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000708.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000709.jpg": {
+    "boxes": [
+      [
+        274.42767333984375,
+        151.25511169433594,
+        310.98284912109375,
+        178.0813751220703
+      ]
+    ],
+    "scores": [
+      0.5653440356254578
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000719.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000720.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000739.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000742.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000747.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000748.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000750.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        149.92640686035156,
+        143.83200073242188,
+        187.9488067626953,
+        172.3280029296875
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0000759.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000761.jpg": {
+    "boxes": [
+      [
+        271.3656005859375,
+        169.427001953125,
+        281.99072265625,
+        192.29531860351562
+      ]
+    ],
+    "scores": [
+      0.7400062680244446
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000762.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        187.42880249023438,
+        131.78880310058594,
+        215.3424072265625,
+        156.49920654296875
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0000763.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        278.7615966796875,
+        140.73280334472656,
+        304.7200012207031,
+        175.75999450683594
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0000771.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000772.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000774.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000780.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000786.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000787.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000791.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000793.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000801.jpg": {
+    "boxes": [
+      [
+        194.49990844726562,
+        123.7075424194336,
+        223.18313598632812,
+        147.968994140625
+      ]
+    ],
+    "scores": [
+      0.9859778881072998
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        193.35679626464844,
+        121.51360321044922,
+        223.80799865722656,
+        151.71519470214844
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0000815.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000822.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        297.8559875488281,
+        223.8704071044922,
+        344.0320129394531,
+        259.7712097167969
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0000825.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000833.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000861.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000870.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000873.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000878.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000881.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000885.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000899.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000904.jpg": {
+    "boxes": [
+      [
+        178.3975830078125,
+        157.8646240234375,
+        216.24002075195312,
+        189.25482177734375
+      ]
+    ],
+    "scores": [
+      0.7853943109512329
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000910.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000916.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000918.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000924.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000933.jpg": {
+    "boxes": [
+      [
+        212.48338317871094,
+        62.72700500488281,
+        263.2822570800781,
+        86.95600891113281
+      ]
+    ],
+    "scores": [
+      0.4636349081993103
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000937.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000939.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000946.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000947.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000950.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000951.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000952.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000954.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000957.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000969.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000973.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000975.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000976.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000979.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0000997.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001015.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001020.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001026.jpg": {
+    "boxes": [
+      [
+        199.30398559570312,
+        198.9610137939453,
+        231.14187622070312,
+        222.9717254638672
+      ]
+    ],
+    "scores": [
+      0.7839358448982239
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        198.39039611816406,
+        201.80160522460938,
+        235.58079528808594,
+        226.17919921875
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0001029.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001033.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001037.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001045.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001075.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001094.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001095.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001101.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001107.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001118.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001122.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001126.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001129.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001138.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001144.jpg": {
+    "boxes": [
+      [
+        168.27264404296875,
+        123.2188491821289,
+        215.68106079101562,
+        159.18096923828125
+      ]
+    ],
+    "scores": [
+      0.5479050874710083
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001147.jpg": {
+    "boxes": [
+      [
+        197.4123077392578,
+        136.554931640625,
+        236.4197235107422,
+        165.02792358398438
+      ],
+      [
+        176.08154296875,
+        143.2838897705078,
+        202.13870239257812,
+        167.83717346191406
+      ],
+      [
+        245.21722412109375,
+        200.52682495117188,
+        271.83978271484375,
+        219.8306884765625
+      ]
+    ],
+    "scores": [
+      0.9953147172927856,
+      0.4844569265842438,
+      0.46344155073165894
+    ],
+    "labels": [
+      1,
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        196.3520050048828,
+        138.09120178222656,
+        235.8719940185547,
+        159.26559448242188
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0001153.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001156.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001169.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001176.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001177.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001180.jpg": {
+    "boxes": [
+      [
+        165.71241760253906,
+        93.57527160644531,
+        199.7577667236328,
+        121.57708740234375
+      ],
+      [
+        175.24813842773438,
+        98.25917053222656,
+        197.55661010742188,
+        116.82722473144531
+      ]
+    ],
+    "scores": [
+      0.5561696887016296,
+      0.5372406244277954
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001188.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001192.jpg": {
+    "boxes": [
+      [
+        194.72427368164062,
+        69.46216583251953,
+        254.28897094726562,
+        134.6068115234375
+      ],
+      [
+        197.88796997070312,
+        83.51312255859375,
+        249.34161376953125,
+        115.66007995605469
+      ]
+    ],
+    "scores": [
+      0.4609076678752899,
+      0.4093174636363983
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        100.6719970703125,
+        265.26239013671875,
+        136.86399841308594,
+        302.1615905761719
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0001193.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001194.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001207.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001223.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001237.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001241.jpg": {
+    "boxes": [
+      [
+        321.4658508300781,
+        205.7670440673828,
+        349.3623352050781,
+        219.74888610839844
+      ]
+    ],
+    "scores": [
+      0.9447397589683533
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001242.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001247.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001255.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001261.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001262.jpg": {
+    "boxes": [
+      [
+        130.21630859375,
+        204.8614959716797,
+        165.00323486328125,
+        285.0229797363281
+      ]
+    ],
+    "scores": [
+      0.4737725555896759
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001269.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001274.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001278.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001279.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001288.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001290.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001302.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001323.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001346.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001349.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001350.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        118.18560028076172,
+        197.01759338378906,
+        139.0688018798828,
+        226.55360412597656
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0001364.jpg": {
+    "boxes": [
+      [
+        233.87173461914062,
+        91.72396087646484,
+        289.5858459472656,
+        138.26190185546875
+      ],
+      [
+        251.61056518554688,
+        109.95831298828125,
+        292.1112365722656,
+        138.4879913330078
+      ]
+    ],
+    "scores": [
+      0.8361853957176208,
+      0.496369868516922
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        234.33279418945312,
+        89.5647964477539,
+        292.4064025878906,
+        141.39840698242188
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0001366.jpg": {
+    "boxes": [
+      [
+        138.77490234375,
+        122.59712219238281,
+        204.16311645507812,
+        173.53916931152344
+      ]
+    ],
+    "scores": [
+      0.9372180104255676
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        138.6320037841797,
+        117.72799682617188,
+        203.4031982421875,
+        169.89439392089844
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0001367.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        281.0495910644531,
+        173.32640075683594,
+        334.6304016113281,
+        229.94400024414062
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0001373.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001375.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001376.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001386.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001390.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001391.jpg": {
+    "boxes": [
+      [
+        152.07383728027344,
+        122.2344741821289,
+        181.46315002441406,
+        140.59841918945312
+      ]
+    ],
+    "scores": [
+      0.6852352023124695
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        151.83999633789062,
+        120.3280029296875,
+        202.5919952392578,
+        146.9936065673828
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0001399.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001404.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001407.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001412.jpg": {
+    "boxes": [
+      [
+        230.67733764648438,
+        82.91291809082031,
+        247.62030029296875,
+        103.76014709472656
+      ]
+    ],
+    "scores": [
+      0.6602671146392822
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001417.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001418.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001427.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001431.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001434.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001439.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001446.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001455.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001460.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001470.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001476.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001482.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001505.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001523.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001532.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001535.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001536.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001537.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001543.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001547.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001562.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001568.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001583.jpg": {
+    "boxes": [
+      [
+        277.9798583984375,
+        153.62802124023438,
+        294.0609130859375,
+        173.20010375976562
+      ]
+    ],
+    "scores": [
+      0.7068294882774353
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001587.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001592.jpg": {
+    "boxes": [
+      [
+        74.50552368164062,
+        160.62557983398438,
+        101.49296569824219,
+        177.94830322265625
+      ]
+    ],
+    "scores": [
+      0.792247474193573
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001596.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001602.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001603.jpg": {
+    "boxes": [
+      [
+        105.88513946533203,
+        116.49112701416016,
+        165.88706970214844,
+        150.82723999023438
+      ]
+    ],
+    "scores": [
+      0.428916335105896
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001604.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001610.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001611.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001613.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001641.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001642.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001643.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001647.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001658.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001684.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001695.jpg": {
+    "boxes": [
+      [
+        43.36281204223633,
+        108.16864013671875,
+        105.15516662597656,
+        202.34710693359375
+      ]
+    ],
+    "scores": [
+      0.5710842609405518
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001696.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001704.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001705.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001706.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001716.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001720.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001743.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001750.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001751.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001753.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001758.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001760.jpg": {
+    "boxes": [
+      [
+        158.9509735107422,
+        181.53501892089844,
+        189.51686096191406,
+        206.2921600341797
+      ]
+    ],
+    "scores": [
+      0.8838536143302917
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        152.0063934326172,
+        166.1295928955078,
+        191.27679443359375,
+        205.9407958984375
+      ],
+      [
+        156.18719482421875,
+        204.92160034179688,
+        200.49119567871094,
+        235.12319946289062
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0001763.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        256.2560119628906,
+        239.61599731445312,
+        279.552001953125,
+        261.8304138183594
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0001764.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001766.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001769.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001772.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001775.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001803.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001804.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001818.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001825.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001828.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001831.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001832.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001833.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001839.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001845.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001856.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001861.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001882.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001884.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001885.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001896.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001901.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001907.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001908.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001920.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001939.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        153.08799743652344,
+        180.8144073486328,
+        175.552001953125,
+        201.3231964111328
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0001945.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001949.jpg": {
+    "boxes": [
+      [
+        217.24786376953125,
+        102.26372528076172,
+        267.90948486328125,
+        124.63622283935547
+      ]
+    ],
+    "scores": [
+      0.5674407482147217
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001950.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001952.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001954.jpg": {
+    "boxes": [
+      [
+        320.2150573730469,
+        141.23789978027344,
+        335.9562683105469,
+        158.90895080566406
+      ]
+    ],
+    "scores": [
+      0.6843301653862
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001957.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001964.jpg": {
+    "boxes": [
+      [
+        196.29310607910156,
+        76.57861328125,
+        255.62437438964844,
+        118.70703125
+      ]
+    ],
+    "scores": [
+      0.8771584033966064
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        203.4031982421875,
+        76.16960144042969,
+        267.3424072265625,
+        116.68800354003906
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0001975.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001979.jpg": {
+    "boxes": [
+      [
+        199.3074493408203,
+        192.1922149658203,
+        229.76918029785156,
+        215.4769744873047
+      ]
+    ],
+    "scores": [
+      0.6394771337509155
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001987.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001991.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0001997.jpg": {
+    "boxes": [
+      [
+        144.53408813476562,
+        116.10037231445312,
+        170.02786254882812,
+        133.98326110839844
+      ]
+    ],
+    "scores": [
+      0.9189967513084412
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002001.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002002.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002006.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002029.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002035.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002039.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002042.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002043.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002046.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002050.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002051.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002053.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002077.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002083.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002092.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002108.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002111.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002118.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002126.jpg": {
+    "boxes": [
+      [
+        190.72767639160156,
+        135.68992614746094,
+        226.9128875732422,
+        155.04942321777344
+      ]
+    ],
+    "scores": [
+      0.9891462326049805
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        191.73440551757812,
+        137.63360595703125,
+        235.58079528808594,
+        158.22560119628906
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002141.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002154.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002157.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002173.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002191.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002204.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002213.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002250.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002253.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002274.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        303.7215881347656,
+        180.0655975341797,
+        344.4895935058594,
+        205.31680297851562
+      ],
+      [
+        82.16000366210938,
+        132.49600219726562,
+        121.76319885253906,
+        165.02720642089844
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002275.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002276.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002288.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002302.jpg": {
+    "boxes": [
+      [
+        263.3327331542969,
+        156.67477416992188,
+        314.4413757324219,
+        198.15829467773438
+      ],
+      [
+        249.326904296875,
+        130.0399627685547,
+        318.50909423828125,
+        199.0668487548828
+      ]
+    ],
+    "scores": [
+      0.9862143397331238,
+      0.5217660069465637
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        265.26239013671875,
+        152.46400451660156,
+        313.55999755859375,
+        199.30560302734375
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002315.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        215.2384033203125,
+        188.6768035888672,
+        249.43359375,
+        200.283203125
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002317.jpg": {
+    "boxes": [
+      [
+        212.58175659179688,
+        193.20811462402344,
+        241.60211181640625,
+        216.7642059326172
+      ],
+      [
+        214.51039123535156,
+        189.76129150390625,
+        231.41868591308594,
+        214.05361938476562
+      ],
+      [
+        214.70362854003906,
+        182.3441619873047,
+        234.77882385253906,
+        223.22828674316406
+      ]
+    ],
+    "scores": [
+      0.9710960388183594,
+      0.8247158527374268,
+      0.4398328363895416
+    ],
+    "labels": [
+      1,
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        213.55360412597656,
+        193.1280059814453,
+        237.8896026611328,
+        219.79359436035156
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002328.jpg": {
+    "boxes": [
+      [
+        207.55172729492188,
+        145.2124481201172,
+        230.5548095703125,
+        166.4589385986328
+      ]
+    ],
+    "scores": [
+      0.9779356718063354
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        207.16799926757812,
+        146.9936065673828,
+        229.3824005126953,
+        168.16799926757812
+      ],
+      [
+        198.16160583496094,
+        154.8560028076172,
+        209.68479919433594,
+        165.46400451660156
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002334.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        292.1776123046875,
+        146.3072052001953,
+        341.72320556640625,
+        175.343994140625
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002351.jpg": {
+    "boxes": [
+      [
+        125.93769836425781,
+        41.94989776611328,
+        174.64857482910156,
+        76.20576477050781
+      ],
+      [
+        232.15701293945312,
+        240.93267822265625,
+        277.4944763183594,
+        270.46728515625
+      ]
+    ],
+    "scores": [
+      0.5941455364227295,
+      0.5683473348617554
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        216.13279724121094,
+        216.36160278320312,
+        240.4687957763672,
+        247.8112030029297
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002361.jpg": {
+    "boxes": [
+      [
+        222.62689208984375,
+        105.55693817138672,
+        263.3736877441406,
+        128.18997192382812
+      ]
+    ],
+    "scores": [
+      0.9705747961997986
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        222.9552001953125,
+        109.05439758300781,
+        259.2720031738281,
+        122.74079895019531
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002370.jpg": {
+    "boxes": [
+      [
+        59.730194091796875,
+        237.52976989746094,
+        159.72166442871094,
+        317.500732421875
+      ],
+      [
+        117.28472900390625,
+        233.33975219726562,
+        158.35040283203125,
+        279.9509582519531
+      ],
+      [
+        69.24593353271484,
+        248.35324096679688,
+        107.53052520751953,
+        277.4277648925781
+      ]
+    ],
+    "scores": [
+      0.9936825037002563,
+      0.7026233673095703,
+      0.5761228799819946
+    ],
+    "labels": [
+      1,
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        64.43840026855469,
+        239.2624053955078,
+        167.8560028076172,
+        323.0032043457031
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002379.jpg": {
+    "boxes": [
+      [
+        304.2801208496094,
+        123.98861694335938,
+        340.3371887207031,
+        144.6148681640625
+      ],
+      [
+        76.97054290771484,
+        147.441162109375,
+        100.57962799072266,
+        165.25576782226562
+      ],
+      [
+        74.69959259033203,
+        141.98312377929688,
+        110.33707427978516,
+        173.08908081054688
+      ],
+      [
+        68.51443481445312,
+        150.4387969970703,
+        92.0802001953125,
+        167.02684020996094
+      ]
+    ],
+    "scores": [
+      0.9830585718154907,
+      0.9538595080375671,
+      0.6092056632041931,
+      0.4356193542480469
+    ],
+    "labels": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        70.44960021972656,
+        148.36639404296875,
+        101.60800170898438,
+        166.1295928955078
+      ],
+      [
+        302.7856140136719,
+        123.05280303955078,
+        327.2879943847656,
+        139.1103973388672
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002383.jpg": {
+    "boxes": [
+      [
+        163.8431854248047,
+        243.73178100585938,
+        208.9645538330078,
+        269.3221740722656
+      ],
+      [
+        162.459716796875,
+        233.213134765625,
+        211.167724609375,
+        299.3734130859375
+      ]
+    ],
+    "scores": [
+      0.8990750908851624,
+      0.7948707938194275
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        165.98399353027344,
+        236.53759765625,
+        213.82400512695312,
+        271.3984069824219
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002386.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        315.3280029296875,
+        0.020800000056624413,
+        347.7760009765625,
+        17.451200485229492
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002390.jpg": {
+    "boxes": [
+      [
+        207.5170135498047,
+        131.4785919189453,
+        275.51922607421875,
+        208.1448516845703
+      ]
+    ],
+    "scores": [
+      0.888525664806366
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        208.41600036621094,
+        146.28640747070312,
+        299.5199890136719,
+        220.12640380859375
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002394.jpg": {
+    "boxes": [
+      [
+        329.47369384765625,
+        232.61572265625,
+        362.95697021484375,
+        254.14874267578125
+      ],
+      [
+        106.72856140136719,
+        230.215087890625,
+        130.2545928955078,
+        248.46804809570312
+      ],
+      [
+        102.27041625976562,
+        162.7366485595703,
+        118.26593017578125,
+        183.69676208496094
+      ]
+    ],
+    "scores": [
+      0.9250084161758423,
+      0.6852330565452576,
+      0.5644810795783997
+    ],
+    "labels": [
+      1,
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        101.08799743652344,
+        164.44479370117188,
+        115.64800262451172,
+        183.91360473632812
+      ],
+      [
+        316.99200439453125,
+        177.0496063232422,
+        333.6319885253906,
+        193.10719299316406
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002395.jpg": {
+    "boxes": [
+      [
+        320.2244567871094,
+        172.62371826171875,
+        336.5840148925781,
+        189.26742553710938
+      ],
+      [
+        341.8409118652344,
+        163.52232360839844,
+        354.4933166503906,
+        181.9315643310547
+      ],
+      [
+        93.60781860351562,
+        181.58949279785156,
+        106.69619750976562,
+        201.79917907714844
+      ],
+      [
+        310.496337890625,
+        245.7797393798828,
+        341.75042724609375,
+        265.0579833984375
+      ],
+      [
+        318.7895812988281,
+        169.69691467285156,
+        350.5668029785156,
+        190.0329132080078
+      ]
+    ],
+    "scores": [
+      0.9809027910232544,
+      0.970439612865448,
+      0.9544152021408081,
+      0.7694269418716431,
+      0.6695027351379395
+    ],
+    "labels": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        93.7040023803711,
+        182.54080200195312,
+        106.05919647216797,
+        201.343994140625
+      ],
+      [
+        321.1520080566406,
+        170.91360473632812,
+        335.2127990722656,
+        191.089599609375
+      ],
+      [
+        344.1983947753906,
+        163.40480041503906,
+        353.7663879394531,
+        182.20799255371094
+      ],
+      [
+        107.93119812011719,
+        180.19039916992188,
+        120.61920166015625,
+        197.20480346679688
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "IMG0002398.jpg": {
+    "boxes": [
+      [
+        300.3175354003906,
+        125.3473892211914,
+        330.7949523925781,
+        140.24362182617188
+      ]
+    ],
+    "scores": [
+      0.5885569453239441
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        112.77760314941406,
+        177.4031982421875,
+        145.6416015625,
+        197.24639892578125
+      ],
+      [
+        299.5408020019531,
+        183.22720336914062,
+        321.4639892578125,
+        200.32479858398438
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002401.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        222.9759979248047,
+        165.1103973388672,
+        251.26400756835938,
+        206.46080017089844
+      ],
+      [
+        187.1999969482422,
+        214.6768035888672,
+        227.13600158691406,
+        247.16639709472656
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002403.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        83.61599731445312,
+        144.60159301757812,
+        110.65599822998047,
+        197.60000610351562
+      ],
+      [
+        326.55999755859375,
+        163.0511932373047,
+        349.8559875488281,
+        190.0496063232422
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002406.jpg": {
+    "boxes": [
+      [
+        280.9499816894531,
+        145.96636962890625,
+        301.5652770996094,
+        167.0673828125
+      ]
+    ],
+    "scores": [
+      0.9619814157485962
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        282.8800048828125,
+        150.38400268554688,
+        298.2720031738281,
+        168.85440063476562
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002418.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        245.0240020751953,
+        229.36160278320312,
+        268.7359924316406,
+        255.69439697265625
+      ],
+      [
+        264.99200439453125,
+        180.835205078125,
+        288.7040100097656,
+        200.3040008544922
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002427.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        252.0751953125,
+        134.67999267578125,
+        271.1695861816406,
+        158.60000610351562
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002444.jpg": {
+    "boxes": [
+      [
+        177.41909790039062,
+        163.9436798095703,
+        221.02548217773438,
+        239.55287170410156
+      ],
+      [
+        174.12583923339844,
+        210.782958984375,
+        194.3484344482422,
+        246.30941772460938
+      ]
+    ],
+    "scores": [
+      0.9849528670310974,
+      0.9333423972129822
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        175.96800231933594,
+        171.95359802246094,
+        220.47999572753906,
+        249.20480346679688
+      ],
+      [
+        173.05599975585938,
+        130.9152069091797,
+        204.6719970703125,
+        174.34559631347656
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002458.jpg": {
+    "boxes": [
+      [
+        210.17091369628906,
+        229.65342712402344,
+        253.5028533935547,
+        277.5750427246094
+      ],
+      [
+        211.5441131591797,
+        174.73680114746094,
+        245.60853576660156,
+        224.83750915527344
+      ],
+      [
+        183.91224670410156,
+        242.7294158935547,
+        211.33250427246094,
+        306.7245788574219
+      ],
+      [
+        210.28086853027344,
+        170.12210083007812,
+        251.4043426513672,
+        256.01092529296875
+      ]
+    ],
+    "scores": [
+      0.9502894878387451,
+      0.8667046427726746,
+      0.45427054166793823,
+      0.4071978032588959
+    ],
+    "labels": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        185.1199951171875,
+        247.83200073242188,
+        208.83200073242188,
+        299.1247863769531
+      ],
+      [
+        213.4080047607422,
+        230.02720642089844,
+        250.4320068359375,
+        268.6736145019531
+      ],
+      [
+        212.99200439453125,
+        186.63839721679688,
+        250.4320068359375,
+        226.61599731445312
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1,
+      1
+    ]
+  },
+  "IMG0002462.jpg": {
+    "boxes": [
+      [
+        156.06239318847656,
+        177.42735290527344,
+        179.24839782714844,
+        194.1217498779297
+      ],
+      [
+        150.26295471191406,
+        173.36849975585938,
+        181.3783416748047,
+        199.69189453125
+      ]
+    ],
+    "scores": [
+      0.9831088185310364,
+      0.8277653455734253
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        158.91200256347656,
+        177.07040405273438,
+        178.46400451660156,
+        196.91360473632812
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002477.jpg": {
+    "boxes": [
+      [
+        168.02288818359375,
+        127.46168518066406,
+        222.91952514648438,
+        244.5467071533203
+      ]
+    ],
+    "scores": [
+      0.7661735415458679
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        168.47999572753906,
+        129.8751983642578,
+        225.4720001220703,
+        227.63519287109375
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002482.jpg": {
+    "boxes": [
+      [
+        251.8710174560547,
+        219.05165100097656,
+        270.9162902832031,
+        237.5409698486328
+      ]
+    ],
+    "scores": [
+      0.7217044830322266
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        251.26400756835938,
+        221.16639709472656,
+        271.23199462890625,
+        237.9311981201172
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002498.jpg": {
+    "boxes": [
+      [
+        168.39492797851562,
+        201.0074462890625,
+        197.84054565429688,
+        220.65472412109375
+      ]
+    ],
+    "scores": [
+      0.4907701313495636
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        162.656005859375,
+        259.1055908203125,
+        178.04800415039062,
+        279.6144104003906
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002504.jpg": {
+    "boxes": [
+      [
+        76.70030975341797,
+        186.09759521484375,
+        107.30712127685547,
+        212.77523803710938
+      ]
+    ],
+    "scores": [
+      0.5191464424133301
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        74.46399688720703,
+        182.85279846191406,
+        108.99199676513672,
+        215.3424072265625
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002511.jpg": {
+    "boxes": [
+      [
+        164.3163299560547,
+        107.96613311767578,
+        209.17103576660156,
+        129.12864685058594
+      ]
+    ],
+    "scores": [
+      0.6778861284255981
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        165.98399353027344,
+        108.03520202636719,
+        208.0,
+        130.24960327148438
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002516.jpg": {
+    "boxes": [
+      [
+        213.458740234375,
+        106.61067199707031,
+        281.1195068359375,
+        149.6008758544922
+      ]
+    ],
+    "scores": [
+      0.8473861813545227
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        213.4080047607422,
+        124.40480041503906,
+        277.47198486328125,
+        147.65919494628906
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002520.jpg": {
+    "boxes": [
+      [
+        224.4423828125,
+        171.8518524169922,
+        260.31085205078125,
+        267.2846984863281
+      ],
+      [
+        254.68551635742188,
+        152.95835876464844,
+        284.8631286621094,
+        198.24998474121094
+      ],
+      [
+        225.05345153808594,
+        185.3761749267578,
+        255.05406188964844,
+        242.26976013183594
+      ],
+      [
+        227.6907958984375,
+        201.44383239746094,
+        260.9862365722656,
+        253.3572540283203
+      ]
+    ],
+    "scores": [
+      0.9919497966766357,
+      0.9149093627929688,
+      0.751177191734314,
+      0.47127190232276917
+    ],
+    "labels": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        224.2239990234375,
+        189.6959991455078,
+        265.4079895019531,
+        249.5167999267578
+      ],
+      [
+        253.75999450683594,
+        162.01119995117188,
+        283.2959899902344,
+        192.08799743652344
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002521.jpg": {
+    "boxes": [
+      [
+        173.6282501220703,
+        112.18356323242188,
+        199.93910217285156,
+        168.11468505859375
+      ]
+    ],
+    "scores": [
+      0.43276795744895935
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        173.4720001220703,
+        132.6416015625,
+        198.4320068359375,
+        156.89439392089844
+      ],
+      [
+        184.28799438476562,
+        153.46240234375,
+        214.656005859375,
+        204.04800415039062
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002522.jpg": {
+    "boxes": [
+      [
+        149.33287048339844,
+        198.55569458007812,
+        192.54344177246094,
+        264.0926513671875
+      ],
+      [
+        151.77430725097656,
+        196.15740966796875,
+        181.35450744628906,
+        228.53668212890625
+      ]
+    ],
+    "scores": [
+      0.937134861946106,
+      0.4888799786567688
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        154.33599853515625,
+        206.1280059814453,
+        197.1840057373047,
+        268.69439697265625
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002527.jpg": {
+    "boxes": [
+      [
+        193.35726928710938,
+        231.0710906982422,
+        237.63055419921875,
+        307.850830078125
+      ],
+      [
+        198.07533264160156,
+        240.65966796875,
+        228.52186584472656,
+        288.85028076171875
+      ],
+      [
+        193.4609832763672,
+        255.8157958984375,
+        233.91307067871094,
+        297.13714599609375
+      ]
+    ],
+    "scores": [
+      0.9569091200828552,
+      0.571125328540802,
+      0.4926054775714874
+    ],
+    "labels": [
+      1,
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        202.5919952392578,
+        245.41920471191406,
+        238.78399658203125,
+        282.3183898925781
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002531.jpg": {
+    "boxes": [
+      [
+        135.61398315429688,
+        164.66360473632812,
+        165.21124267578125,
+        189.7894287109375
+      ]
+    ],
+    "scores": [
+      0.970174252986908
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        134.78399658203125,
+        168.50079345703125,
+        168.06399536132812,
+        189.0095977783203
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002547.jpg": {
+    "boxes": [
+      [
+        155.5853729248047,
+        218.64096069335938,
+        176.0986785888672,
+        235.09564208984375
+      ],
+      [
+        101.69674682617188,
+        254.61781311035156,
+        132.37322998046875,
+        285.1051330566406
+      ]
+    ],
+    "scores": [
+      0.7493430972099304,
+      0.47563430666923523
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        108.57599639892578,
+        256.0271911621094,
+        125.21600341796875,
+        276.8688049316406
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002564.jpg": {
+    "boxes": [
+      [
+        309.68505859375,
+        129.56472778320312,
+        331.27313232421875,
+        150.52261352539062
+      ],
+      [
+        106.00226593017578,
+        218.94064331054688,
+        134.14146423339844,
+        240.85745239257812
+      ]
+    ],
+    "scores": [
+      0.9566486477851868,
+      0.8528702855110168
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        103.58399963378906,
+        218.06719970703125,
+        140.19200134277344,
+        239.61599731445312
+      ],
+      [
+        309.0880126953125,
+        129.56320190429688,
+        329.47198486328125,
+        147.32640075683594
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002565.jpg": {
+    "boxes": [
+      [
+        320.98138427734375,
+        188.83851623535156,
+        351.97930908203125,
+        208.67784118652344
+      ]
+    ],
+    "scores": [
+      0.5746839046478271
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        82.78399658203125,
+        198.57760620117188,
+        118.14399719238281,
+        240.96800231933594
+      ],
+      [
+        323.64801025390625,
+        186.30560302734375,
+        354.0159912109375,
+        206.1488037109375
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002573.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        120.2239990234375,
+        161.01280212402344,
+        138.11199951171875,
+        175.69760131835938
+      ],
+      [
+        338.2080078125,
+        146.63999938964844,
+        354.4320068359375,
+        165.1103973388672
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002578.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        91.93599700927734,
+        183.91360473632812,
+        128.54400634765625,
+        197.22560119628906
+      ],
+      [
+        331.135986328125,
+        223.53759765625,
+        369.4079895019531,
+        237.8896026611328
+      ]
+    ],
+    "gt_labels": [
+      1,
+      1
+    ]
+  },
+  "IMG0002580.jpg": {
+    "boxes": [
+      [
+        203.8931121826172,
+        122.98399353027344,
+        244.5507354736328,
+        164.8228302001953
+      ]
+    ],
+    "scores": [
+      0.9794229865074158
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        209.66400146484375,
+        119.97440338134766,
+        242.94400024414062,
+        161.6575927734375
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002600.jpg": {
+    "boxes": [
+      [
+        199.50526428222656,
+        176.33624267578125,
+        248.1703338623047,
+        199.29046630859375
+      ]
+    ],
+    "scores": [
+      0.9695093631744385
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        199.1392059326172,
+        173.28480529785156,
+        245.8144073486328,
+        197.53759765625
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002604.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        164.2783966064453,
+        155.81280517578125,
+        187.32479858398438,
+        216.5072021484375
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002607.jpg": {
+    "boxes": [
+      [
+        336.76031494140625,
+        216.13739013671875,
+        392.08612060546875,
+        313.3421630859375
+      ],
+      [
+        389.2776794433594,
+        336.2311706542969,
+        404.7646789550781,
+        357.9122619628906
+      ]
+    ],
+    "scores": [
+      0.9868298172950745,
+      0.6632657051086426
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        342.118408203125,
+        218.89920043945312,
+        388.7936096191406,
+        307.2575988769531
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002611.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        231.62879943847656,
+        180.56480407714844,
+        244.02560424804688,
+        248.99679565429688
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002635.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002637.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002651.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        175.51040649414062,
+        170.372802734375,
+        196.7263946533203,
+        196.70559692382812
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002657.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002660.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002665.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002689.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002694.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002696.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002701.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        317.0544128417969,
+        213.82400512695312,
+        366.5168151855469,
+        308.9216003417969
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002707.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002710.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002719.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002731.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        250.47360229492188,
+        187.82400512695312,
+        269.6095886230469,
+        215.86239624023438
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002740.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002742.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002744.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002747.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002752.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002754.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002760.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002775.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002778.jpg": {
+    "boxes": [
+      [
+        228.95924377441406,
+        141.44085693359375,
+        246.33531188964844,
+        164.56893920898438
+      ]
+    ],
+    "scores": [
+      0.5747862458229065
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002782.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002785.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002788.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002789.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002793.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002798.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002800.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002812.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002813.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002818.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002823.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002834.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        255.46560668945312,
+        127.96160125732422,
+        271.2735900878906,
+        156.0
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002855.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002870.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002871.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002879.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002904.jpg": {
+    "boxes": [
+      [
+        196.23455810546875,
+        78.08563232421875,
+        235.466064453125,
+        113.76826477050781
+      ],
+      [
+        207.22605895996094,
+        87.4659194946289,
+        232.9152069091797,
+        110.98029327392578
+      ],
+      [
+        208.11866760253906,
+        87.22492980957031,
+        256.365234375,
+        110.27105712890625
+      ]
+    ],
+    "scores": [
+      0.9250104427337646,
+      0.8017625212669373,
+      0.6547824144363403
+    ],
+    "labels": [
+      1,
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        202.1551971435547,
+        59.5088005065918,
+        234.64480590820312,
+        110.13600158691406
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002905.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        251.84640502929688,
+        147.11839294433594,
+        306.6752014160156,
+        188.17759704589844
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002913.jpg": {
+    "boxes": [
+      [
+        319.5118103027344,
+        161.18295288085938,
+        344.0174255371094,
+        180.51409912109375
+      ],
+      [
+        310.93975830078125,
+        160.74952697753906,
+        333.59765625,
+        177.57225036621094
+      ],
+      [
+        315.0760498046875,
+        152.40585327148438,
+        348.1773681640625,
+        181.47665405273438
+      ]
+    ],
+    "scores": [
+      0.6085044741630554,
+      0.5478814840316772,
+      0.4176795780658722
+    ],
+    "labels": [
+      1,
+      1,
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002924.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002934.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        234.64480590820312,
+        182.6864013671875,
+        275.03839111328125,
+        202.19679260253906
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002935.jpg": {
+    "boxes": [
+      [
+        271.36077880859375,
+        176.80535888671875,
+        303.68463134765625,
+        195.58724975585938
+      ]
+    ],
+    "scores": [
+      0.9286778569221497
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        270.46240234375,
+        177.88160705566406,
+        305.0320129394531,
+        202.50880432128906
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0002936.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002952.jpg": {
+    "boxes": [
+      [
+        272.5316162109375,
+        167.98870849609375,
+        304.8914794921875,
+        191.83367919921875
+      ]
+    ],
+    "scores": [
+      0.9894258975982666
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002957.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002960.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002965.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002969.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002989.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0002998.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        213.4080047607422,
+        31.823999404907227,
+        224.63999938964844,
+        46.883201599121094
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003006.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003007.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003027.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003028.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003031.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003051.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003053.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003057.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003063.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003064.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003067.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003069.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003072.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003077.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        177.6320037841797,
+        365.35198974609375,
+        197.1840057373047,
+        390.6864013671875
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003083.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003085.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003090.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003091.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003092.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003104.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003107.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003108.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003120.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003123.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003133.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003136.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003138.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003139.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003143.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003146.jpg": {
+    "boxes": [
+      [
+        186.81210327148438,
+        179.82394409179688,
+        225.392333984375,
+        218.84194946289062
+      ]
+    ],
+    "scores": [
+      0.9954156875610352
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        185.0991973876953,
+        179.9407958984375,
+        222.99679565429688,
+        236.0592041015625
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003153.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003157.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        260.0415954589844,
+        191.9008026123047,
+        277.09759521484375,
+        206.627197265625
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003164.jpg": {
+    "boxes": [
+      [
+        201.9888916015625,
+        151.350341796875,
+        230.20407104492188,
+        165.03811645507812
+      ],
+      [
+        200.15643310546875,
+        147.2027130126953,
+        231.45083618164062,
+        172.1514129638672
+      ]
+    ],
+    "scores": [
+      0.9910544753074646,
+      0.627944827079773
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        204.23519897460938,
+        146.76480102539062,
+        230.48480224609375,
+        162.15679931640625
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003165.jpg": {
+    "boxes": [
+      [
+        218.1326904296875,
+        132.73294067382812,
+        245.97589111328125,
+        157.28176879882812
+      ],
+      [
+        210.43482971191406,
+        128.06578063964844,
+        244.08116149902344,
+        168.61610412597656
+      ]
+    ],
+    "scores": [
+      0.6936047673225403,
+      0.49912548065185547
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        219.66879272460938,
+        135.49119567871094,
+        244.67039489746094,
+        150.88319396972656
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003170.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003171.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        172.18240356445312,
+        201.15679931640625,
+        185.07839965820312,
+        221.0
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003176.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003200.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        209.66400146484375,
+        178.25599670410156,
+        224.2239990234375,
+        193.98080444335938
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003207.jpg": {
+    "boxes": [
+      [
+        266.15283203125,
+        144.03231811523438,
+        299.390869140625,
+        165.4908447265625
+      ]
+    ],
+    "scores": [
+      0.42792657017707825
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003217.jpg": {
+    "boxes": [
+      [
+        178.4149932861328,
+        176.94644165039062,
+        216.22044372558594,
+        201.34030151367188
+      ]
+    ],
+    "scores": [
+      0.9949551224708557
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        175.94720458984375,
+        174.82400512695312,
+        214.6768035888672,
+        197.0800018310547
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003224.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003227.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003230.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003234.jpg": {
+    "boxes": [
+      [
+        220.95066833496094,
+        146.63246154785156,
+        254.2926788330078,
+        173.5943145751953
+      ]
+    ],
+    "scores": [
+      0.6937936544418335
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        223.82879638671875,
+        152.92160034179688,
+        257.56640625,
+        165.9008026123047
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003236.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003241.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003258.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003263.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003267.jpg": {
+    "boxes": [
+      [
+        198.66348266601562,
+        223.56240844726562,
+        235.65274047851562,
+        246.03472900390625
+      ]
+    ],
+    "scores": [
+      0.7229644060134888
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        215.0511932373047,
+        222.70559692382812,
+        237.1407928466797,
+        245.29440307617188
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003270.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003273.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003278.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003281.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003284.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003304.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003307.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003311.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        220.9167938232422,
+        186.11839294433594,
+        243.0063934326172,
+        210.74560546875
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003325.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003336.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003340.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003355.jpg": {
+    "boxes": [
+      [
+        99.55421447753906,
+        180.94236755371094,
+        124.28044128417969,
+        207.05909729003906
+      ]
+    ],
+    "scores": [
+      0.4743916690349579
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003363.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003374.jpg": {
+    "boxes": [
+      [
+        234.97067260742188,
+        145.70501708984375,
+        275.0372314453125,
+        174.36959838867188
+      ],
+      [
+        220.05506896972656,
+        171.23892211914062,
+        250.24269104003906,
+        195.99996948242188
+      ]
+    ],
+    "scores": [
+      0.992442786693573,
+      0.6689347624778748
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        246.70880126953125,
+        147.45120239257812,
+        280.0303955078125,
+        174.11680603027344
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003385.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003391.jpg": {
+    "boxes": [
+      [
+        287.3689880371094,
+        168.489013671875,
+        321.0390319824219,
+        189.13504028320312
+      ]
+    ],
+    "scores": [
+      0.9512795805931091
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003396.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        212.1392059326172,
+        132.0384063720703,
+        246.70880126953125,
+        150.8415985107422
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003400.jpg": {
+    "boxes": [
+      [
+        169.79266357421875,
+        97.83969116210938,
+        227.8580322265625,
+        150.92481994628906
+      ]
+    ],
+    "scores": [
+      0.8396849632263184
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003407.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003417.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003426.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003427.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003430.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003438.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003440.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003445.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003447.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003449.jpg": {
+    "boxes": [
+      [
+        67.43623352050781,
+        133.77474975585938,
+        103.6990966796875,
+        164.26821899414062
+      ],
+      [
+        79.49703979492188,
+        154.30502319335938,
+        120.27554321289062,
+        186.74111938476562
+      ]
+    ],
+    "scores": [
+      0.8407371640205383,
+      0.596508264541626
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003474.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003479.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003482.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003483.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003487.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003490.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003524.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        198.4320068359375,
+        110.5103988647461,
+        213.4080047607422,
+        146.41119384765625
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003531.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003534.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003550.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003552.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003565.jpg": {
+    "boxes": [
+      [
+        217.96910095214844,
+        207.4970703125,
+        244.3609161376953,
+        229.07028198242188
+      ]
+    ],
+    "scores": [
+      0.9524970054626465
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        215.9040069580078,
+        206.98080444335938,
+        237.53599548339844,
+        221.33279418945312
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003572.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003577.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003599.jpg": {
+    "boxes": [
+      [
+        132.94509887695312,
+        108.74092102050781,
+        191.49349975585938,
+        133.5440673828125
+      ]
+    ],
+    "scores": [
+      0.4596738815307617
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003606.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003611.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003615.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003617.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003620.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        120.55680084228516,
+        343.8031921386719,
+        136.36480712890625,
+        366.72479248046875
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003622.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003623.jpg": {
+    "boxes": [
+      [
+        173.2325439453125,
+        114.63672637939453,
+        236.2294921875,
+        156.44509887695312
+      ]
+    ],
+    "scores": [
+      0.43269699811935425
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003629.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003639.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003648.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003649.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003672.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003678.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003682.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003683.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003687.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003693.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003694.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003695.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003701.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003723.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003725.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003726.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003740.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003747.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003750.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003761.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003765.jpg": {
+    "boxes": [
+      [
+        194.615966796875,
+        157.00341796875,
+        227.938720703125,
+        183.67782592773438
+      ],
+      [
+        191.96287536621094,
+        140.49221801757812,
+        229.27088928222656,
+        188.21304321289062
+      ]
+    ],
+    "scores": [
+      0.8794972896575928,
+      0.4138345420360565
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003769.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003774.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        224.28640747070312,
+        111.55039978027344,
+        248.9552001953125,
+        129.06399536132812
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003780.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003782.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003783.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003791.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003802.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003803.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        172.18240356445312,
+        175.13600158691406,
+        190.4864044189453,
+        196.3520050048828
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003805.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003812.jpg": {
+    "boxes": [
+      [
+        214.0957794189453,
+        145.28271484375,
+        243.1915740966797,
+        160.84225463867188
+      ]
+    ],
+    "scores": [
+      0.6247671246528625
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        215.0511932373047,
+        144.3520050048828,
+        240.88479614257812,
+        156.6656036376953
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003819.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        180.93919372558594,
+        216.54879760742188,
+        217.58880615234375,
+        242.21600341796875
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003821.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        294.1744079589844,
+        380.4320068359375,
+        326.24798583984375,
+        404.3935852050781
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003834.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003845.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003851.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        149.71839904785156,
+        196.70559692382812,
+        171.35040283203125,
+        215.88319396972656
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003858.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003867.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003881.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003884.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003903.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003925.jpg": {
+    "boxes": [
+      [
+        191.02259826660156,
+        172.98109436035156,
+        239.82322692871094,
+        259.5549011230469
+      ],
+      [
+        208.5282745361328,
+        196.627685546875,
+        238.6277313232422,
+        256.73712158203125
+      ],
+      [
+        191.5594024658203,
+        173.6570281982422,
+        213.83824157714844,
+        213.0084991455078
+      ]
+    ],
+    "scores": [
+      0.9828789234161377,
+      0.8057226538658142,
+      0.7482508420944214
+    ],
+    "labels": [
+      1,
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        190.5072021484375,
+        173.11839294433594,
+        242.13279724121094,
+        253.86399841308594
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003927.jpg": {
+    "boxes": [
+      [
+        249.28472900390625,
+        188.9678192138672,
+        277.56085205078125,
+        228.31898498535156
+      ]
+    ],
+    "scores": [
+      0.9818140864372253
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        241.30079650878906,
+        185.41119384765625,
+        277.5343933105469,
+        234.6656036376953
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003928.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003929.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003941.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003948.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003954.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        220.10560607910156,
+        235.7263946533203,
+        241.7375946044922,
+        267.5504150390625
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0003972.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0003988.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004012.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004017.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004019.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004020.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004071.jpg": {
+    "boxes": [
+      [
+        249.85804748535156,
+        131.59356689453125,
+        284.7237548828125,
+        170.60269165039062
+      ],
+      [
+        258.3436279296875,
+        185.9356231689453,
+        285.162109375,
+        214.67247009277344
+      ]
+    ],
+    "scores": [
+      0.9219120740890503,
+      0.4323813021183014
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        250.72320556640625,
+        124.38400268554688,
+        280.1759948730469,
+        169.72799682617188
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0004105.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004188.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004201.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004207.jpg": {
+    "boxes": [
+      [
+        195.0680694580078,
+        194.9254913330078,
+        226.31617736816406,
+        218.4316864013672
+      ]
+    ],
+    "scores": [
+      0.9690975546836853
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        195.6031951904297,
+        195.35360717773438,
+        225.55520629882812,
+        213.9904022216797
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0004208.jpg": {
+    "boxes": [
+      [
+        197.2772674560547,
+        185.44215393066406,
+        234.4003143310547,
+        230.48780822753906
+      ],
+      [
+        197.1088409423828,
+        194.5739288330078,
+        233.31080627441406,
+        214.7887420654297
+      ]
+    ],
+    "scores": [
+      0.9953014850616455,
+      0.6521900296211243
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [
+      [
+        197.30880737304688,
+        192.54559326171875,
+        234.49920654296875,
+        226.283203125
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0004217.jpg": {
+    "boxes": [
+      [
+        271.5681457519531,
+        176.2596893310547,
+        304.1282653808594,
+        196.46165466308594
+      ]
+    ],
+    "scores": [
+      0.9337061047554016
+    ],
+    "labels": [
+      1
+    ],
+    "gt_boxes": [
+      [
+        264.88800048828125,
+        173.55520629882812,
+        306.7792053222656,
+        205.17120361328125
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  },
+  "IMG0004225.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004236.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004244.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004265.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004277.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004280.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004341.jpg": {
+    "boxes": [
+      [
+        154.79136657714844,
+        112.8364028930664,
+        170.75071716308594,
+        137.26792907714844
+      ],
+      [
+        151.94837951660156,
+        106.32504272460938,
+        175.7265167236328,
+        139.6804656982422
+      ]
+    ],
+    "scores": [
+      0.9932984709739685,
+      0.6919247508049011
+    ],
+    "labels": [
+      1,
+      1
+    ],
+    "gt_boxes": [],
+    "gt_labels": []
+  },
+  "IMG0004369.jpg": {
+    "boxes": [],
+    "scores": [],
+    "labels": [],
+    "gt_boxes": [
+      [
+        273.8528137207031,
+        274.060791015625,
+        292.656005859375,
+        297.6064147949219
+      ]
+    ],
+    "gt_labels": [
+      1
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+
+path: C:\Users\Soren\Documents\amld2025_fracAtlas\Data\split_data
+train: train/images
+val: val/images
+test: test/images
+nc: 2
+names: ['non_fractured', 'fractured']

@@ -1,0 +1,22 @@
+Clear overfitting on the training data which can be seen by validation errors increasing when epochs increase
+
+Batch size changed gradually from 4 to 16 (Gradual batch size)
+WarmupScheduler (with LR warmup)
+Cosine annealing after warmup
+
+4th run was the best
+
+320 x 320
+With anchoring (8,16,32), aspect ratios 0.5,1.0,2.0
+Parameters(lr, w_box,w_cls, w_obj, w_rpn)
+
+Augmentation:
+Random horizontal flip
+Color jitter
+
+Adam
+
+No Weight decay
+
+
+

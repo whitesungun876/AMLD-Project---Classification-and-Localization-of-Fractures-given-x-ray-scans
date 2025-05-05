@@ -1,0 +1,14 @@
+# 200/200 iterations complete ✅ (62265.74s)
+# Results saved to runs\hyp_search_phase1
+# Best fitness=0.41272 observed at iteration 157
+# Best fitness metrics are {'metrics/precision(B)': 1.0, 'metrics/recall(B)': 0.00667, 'metrics/mAP50(B)': 0.50332, 'metrics/mAP50-95(B)': 0.40266, 'val/box_loss': 0.04417, 'val/cls_loss': 6.20449, 'val/dfl_loss': 0.82556, 'fitness': 0.41272}
+# Best fitness model is runs\train157
+# Best fitness hyperparameters are printed below.
+
+lr0: 0.0022
+lrf: 0.10536
+weight_decay: 0.00016
+cls: 0.69196
+box: 0.11014
+dfl: 0.76304
+scale: 0.07575
